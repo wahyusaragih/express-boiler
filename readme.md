@@ -52,8 +52,8 @@ project-root/
 |-- node_modules/
 |-- package.json
 |-- .gitignore
-
-Explanation
+```
+### Explanation
 src: This directory contains the source code of your application.
 
 controllers: Business logic for different entities.
@@ -84,7 +84,7 @@ Explain how to install and set up the project. Include any dependencies or prere
 ```
 npm install
 ```
-
+```
 ## Usage
 Provide information on how to use the project. Include examples if necessary.
 
