@@ -77,7 +77,7 @@ package.json: Configuration file for your Node.js project.
 .gitignore: Specifies files and directories ignored by version control.
 
 app.js: The entry point of your application.
-
+```
 ## Installation
 Explain how to install and set up the project. Include any dependencies or prerequisites.
 
