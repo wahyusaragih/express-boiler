@@ -53,38 +53,28 @@ project-root/
 |-- package.json
 |-- .gitignore
 ```
-### Explanation
-src: This directory contains the source code of your application.
+**Explanation:**
+- **src:** This directory contains the source code of your application.
+- **controllers:** Business logic for different entities.
+- **models:** Database models representing entities.
+- **views:** Template files or HTML files.
+- **routes:** Define routes for your application.
+- **middleware:** Custom middleware functions.
+- **config:** Configuration files.
+- **public:** Static assets.
+- **node_modules:** Npm packages are installed here.
+- **package.json:** Configuration file for your Node.js project.
+- **.gitignore:** Specifies files and directories ignored by version control.
+- **app.js:** The entry point of your application.
 
-controllers: Business logic for different entities.
 
-models: Database models representing entities.
-
-views: Template files or HTML files.
-
-routes: Define routes for your application.
-
-middleware: Custom middleware functions.
-
-config: Configuration files.
-
-public: Static assets.
-
-node_modules: Npm packages are installed here.
-
-package.json: Configuration file for your Node.js project.
-
-.gitignore: Specifies files and directories ignored by version control.
-
-app.js: The entry point of your application.
-```
 ## Installation
 Explain how to install and set up the project. Include any dependencies or prerequisites.
 
 ```
 npm install
 ```
-```
+
 ## Usage
 Provide information on how to use the project. Include examples if necessary.
 
